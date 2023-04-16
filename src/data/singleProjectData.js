@@ -17,7 +17,7 @@ import {
 export const singleProjectData = {
 	ProjectHeader: {
 		title: 'Project Management UI',
-		publishDate: 'Jul 26, 2021',
+		publishDate: 'SOON',
 		tags: 'UI / Frontend',
 	},
 	ProjectImages: [
@@ -102,17 +102,12 @@ export const singleProjectData = {
 		],
 		SocialSharingHeading: 'Share This',
 		SocialSharing: [
-			{
-				id: 1,
-				name: 'Twitter',
-				icon: <FiTwitter />,
-				url: 'https://twitter.com/realstoman',
-			},
+			
 			{
 				id: 2,
 				name: 'Instagram',
 				icon: <FiInstagram />,
-				url: 'https://instagram.com/realstoman',
+				url: 'https://instagram.com/akashchohan.info',
 			},
 			{
 				id: 3,
@@ -124,13 +119,13 @@ export const singleProjectData = {
 				id: 4,
 				name: 'LinkedIn',
 				icon: <FiLinkedin />,
-				url: 'https://linkedin.com/',
+				url: 'https://www.linkedin.com/in/akashchohan/',
 			},
 			{
 				id: 5,
 				name: 'Youtube',
 				icon: <FiYoutube />,
-				url: 'https://www.youtube.com/c/StomanStudio',
+				url: 'https://www.youtube.com/@AABruzz/featured',
 			},
 		],
 	},
